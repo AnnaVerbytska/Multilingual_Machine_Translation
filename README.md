@@ -1,4 +1,4 @@
-# Multilingual_Machine_Translation
+# Multilingual Machine Translation & Text Simplification & Text-to-Speech
 
 Prompt Engineering with Gemini for Text Simplification & Machine Translation for different target groups
   - zero-shot
